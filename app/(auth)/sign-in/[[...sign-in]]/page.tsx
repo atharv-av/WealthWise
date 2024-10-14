@@ -22,7 +22,7 @@ export default function Page() {
         </div>
       </div>
       <div className="hidden lg:flex items-center justify-center h-full bg-blue-600">
-        <Image src="/logo.svg" alt="WealthWise" height={100} width={100} />
+        <Image src="/logo.svg" alt="WealthWise Logo" height={100} width={100} />
       </div>
     </div>
   );
